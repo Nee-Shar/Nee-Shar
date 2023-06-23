@@ -20,7 +20,7 @@ But that's not all—I'm always eager to expand my knowledge and keep up with th
 
 If you have an exciting project or collaboration opportunity in mind, feel free to reach out. I'm open to teamwork and eager to contribute my skills to make impactful web applications.
 
-You can contact me via email at neeraj.sharma@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/neerajsharma).
+You can contact me by connecting with me on [LinkedIn](https://www.linkedin.com/in/neerajsharma).
 
 Let's push the boundaries of web development together and create amazing digital experiences that leave a lasting impression!
 
