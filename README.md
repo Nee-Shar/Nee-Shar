@@ -24,7 +24,7 @@ Get in Touch
 💼 LinkedIn: [neeraj-sharma-958528224](https://www.linkedin.com/in/neeraj-sharma-958528224/)
 
 My Tech Stack: 
-<img src="https://img.icons8.com/color/16/000000/c-plus-plus-logo.png" alt="C++ Icon" width="32" height="32">
+<img src="https://img.icons8.com/color/16/000000/c-plus-plus-logo.png" alt="C++ Icon" width="100" height="100">
  C++ ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png)
  HTML ![HTML](https://img.icons8.com/color/16/000000/html-5--v1.png)
  CSS ![CSS](https://img.icons8.com/color/16/000000/css3.png)
