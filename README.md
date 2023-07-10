@@ -26,13 +26,13 @@ Get in Touch
 
 My Tech Stack: 
 
- <img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png" alt="C++ Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="HTML Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="JavaScript Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/firebase.png" alt="Firebase Icon" width="35" height="35">
- <img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="Bootstrap Icon" width="35" height="35">
+ <img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png" alt="C++ Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="HTML Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/javascript--v1.png" alt="JavaScript Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/firebase.png" alt="Firebase Icon" width="32" height="32">
+ <img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="Bootstrap Icon" width="32" height="32">
 
 
 
