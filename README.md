@@ -25,6 +25,8 @@ Get in Touch
 
 
 My Tech Stack: 
+
+<br>
 C++ <img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png" alt="C++ Icon" width="32" height="32">
 HTML <img src="https://img.icons8.com/color/32/000000/html-5--v1.png" alt="HTML Icon" width="32" height="32">
 CSS <img src="https://img.icons8.com/color/32/000000/css3.png" alt="CSS Icon" width="32" height="32">
