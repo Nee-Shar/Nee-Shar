@@ -23,9 +23,6 @@ Get in Touch
 📧 Email: neeraj716sharma@gmail.com
 💼 LinkedIn: [neeraj-sharma-958528224](https://www.linkedin.com/in/neeraj-sharma-958528224/)
 
-My Tech Stack: 
-
-
 
 My Tech Stack: 
 C++ <img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png" alt="C++ Icon" width="32" height="32">
@@ -44,12 +41,3 @@ Bootstrap <img src="https://img.icons8.com/color/32/000000/bootstrap.png" alt="B
 
 
 
-
-
- C++ ![C++](https://img.icons8.com/color/16/000000/c-plus-plus-logo.png)
- HTML ![HTML](https://img.icons8.com/color/16/000000/html-5--v1.png)
- CSS ![CSS](https://img.icons8.com/color/16/000000/css3.png)
- JavaScript ![JavaScript](https://img.icons8.com/color/16/000000/javascript--v1.png)
- React ![React](https://img.icons8.com/color/16/000000/react-native.png)
- Firebase ![Firebase](https://img.icons8.com/color/16/000000/firebase.png)
-    Bootstrap ![Bootstrap](https://img.icons8.com/color/16/000000/bootstrap.png)
