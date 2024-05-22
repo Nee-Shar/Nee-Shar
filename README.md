@@ -1,13 +1,14 @@
 I love creating amazing web applications that deliver exceptional user experiences. I strive for:
 
-🚀 Well-crafted web applications that combine aesthetics with functionality.
-⚡ Responsive and user-friendly designs that ensure an engaging experience across all devices.
-🌟 Clean and maintainable code that adheres to industry best practices and coding standards.
-🔥 Seamless integration with backend technologies like Node.js and FastAPI for robust and scalable server-side solutions.
-💾 Efficient data management and real-time updates using BAAS platforms such as Firebase and Supabase.
-💡 Creative problem-solving and innovative thinking to tackle complex challenges.
-👨‍💻 A continuous learner who is always up for mastering new technologies and frameworks.
-🧠 A passion for Data Structures and Algorithms—I enjoy solving DSA questions to keep my skills sharp.
+🚀 Well-crafted web applications that combine aesthetics with functionality.<br>
+⚡ Responsive and user-friendly designs that ensure an engaging experience across all devices.<br>
+🌟 Clean and maintainable code that adheres to industry best practices and coding standards.<br>
+🔥 Seamless integration with backend technologies like Node.js and FastAPI for robust and scalable server-side solutions.<br>
+💾 Efficient data management and real-time updates using BAAS platforms such as Firebase and Supabase.<br>
+💡 Creative problem-solving and innovative thinking to tackle complex challenges.<br>
+👨‍💻 A continuous learner who is always up for mastering new technologies and frameworks.<br>
+🧠 A passion for Data Structures and Algorithms—I enjoy solving DSA questions to keep my skills sharp.<br>
+<br><br>
 Let's Collaborate!
 If you have an exciting project or collaboration opportunity in mind, feel free to reach out. I'm open to teamwork and eager to contribute my skills to make impactful web applications.
 
