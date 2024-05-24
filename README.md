@@ -17,7 +17,7 @@ You can contact me by connecting with me on LinkedIn.
 Let's push the boundaries of web development together and create amazing digital experiences that leave a lasting impression!
 
 Get in Touch
-🌐 Website: [neeshar.netlify.app](https://neeshar.netlify.app/)
+🌐 Website: [nee-shar.netlify.app](https://nee-shar.netlify.app/)
 📧 Email: neeraj716sharma@gmail.com
 💼 LinkedIn: [neeraj-sharma-958528224](https://www.linkedin.com/in/neeraj-sharma-958528224/)
 
