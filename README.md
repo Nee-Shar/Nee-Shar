@@ -1,25 +1,26 @@
-I love creating amazing web applications that deliver exceptional user experiences. I strive for:
+# 👋 Hey, I'm Neeraj Sharma
 
-🚀 Well-crafted web applications that combine aesthetics with functionality.<br>
-⚡ Responsive and user-friendly designs that ensure an engaging experience across all devices.<br>
-🌟 Clean and maintainable code that adheres to industry best practices and coding standards.<br>
-🔥 Seamless integration with backend technologies like Node.js and FastAPI for robust and scalable server-side solutions.<br>
-💾 Efficient data management and real-time updates using BAAS platforms such as Firebase and Supabase.<br>
-💡 Creative problem-solving and innovative thinking to tackle complex challenges.<br>
-👨‍💻 A continuous learner who is always up for mastering new technologies and frameworks.<br>
-🧠 A passion for Data Structures and Algorithms—I enjoy solving DSA questions to keep my skills sharp.<br>
-<br><br>
-Let's Collaborate!
-If you have an exciting project or collaboration opportunity in mind, feel free to reach out. I'm open to teamwork and eager to contribute my skills to make impactful web applications.
+I'm a full-stack developer with a passion for building responsive web applications and scalable solutions. With experience across **Next.js**, **React**, **Tailwind CSS**, **FastAPI**, and **Firebase**, I love crafting both front-end and back-end systems. I’m always eager to dive into new tech, solve complex problems, and find efficient solutions.
 
-You can contact me by connecting with me on LinkedIn.
+### 🔧 Technologies I Work With:
+- **Frontend**: Next.js, React, Tailwind CSS, Shadcn UI, DaisyUI
+- **Backend**: FastAPI, Node.js
+- **State Management**: Zustand, Redux
+- **Database**: Firebase, MongoDB
+- **Other**: C++, LeetCode, Git, Web Extensions
+
+  
+### ⚽ Fun Facts:
+- I'm a **sports enthusiast** and enjoy staying active.
+  
+### 📫 Let's Connect:
+- LinkedIn: [neerajsharma](https://www.linkedin.com/in/neeraj-sharma-958528224/)
+- Portfolio: [My Website](https://nee-shar.netlify.app/)
+- Email : [My Email](mailto:neeraj716sharma@gmail.com)
+
 
 Let's push the boundaries of web development together and create amazing digital experiences that leave a lasting impression!
 
-Get in Touch
-🌐 Website: [nee-shar.netlify.app](https://nee-shar.netlify.app/)
-📧 Email: neeraj716sharma@gmail.com
-💼 LinkedIn: [neeraj-sharma-958528224](https://www.linkedin.com/in/neeraj-sharma-958528224/)
 
 
 <h3 align="left">Languages and Tools:</h3>
